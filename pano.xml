@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20025" appversion="7.0.10" start="node22">
+  <panorama id="node22">
+    <input height="480" levelingpitch="2.4345400000000001" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="-2.7321900000000001" levelbias="0.400" leveltilesize="510" width="480">
+      <level height="480" predecode="1" preload="1" width="480"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Новая папка (3)" customnodeid="" source="" nodeid="node22" author="" info="" description="" datetime="10.05.2024 16:13" longitude="" title="" latitude="" copyright="" comment="" heading="0"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" border="1" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundalpha="1" borderalpha="1" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot customimageheight="64" customimagewidth="115" fov="100" id="Point01" distance3D="48.2482" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-16.png" skinid="ht_node" description="" target="" title="" url="{node11}" pan="-31.02" use3D="0" tilt="-24.18"/>
+      <hotspot customimageheight="60" customimagewidth="107" fov="100" id="Point02" distance3D="44.8918" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-1.png" skinid="ht_node" description="" target="" title="" url="{node23}" pan="-72.75" use3D="0" tilt="-18.49"/>
+      <hotspot customimageheight="154" customimagewidth="154" fov="10" id="Point03" distance3D="880.114" customimage="media/l3tW_JbQVX6Ll7GdGx4P9t8MXeJuW-1tZ9hrLsLov7LszxfUoiVO-np68nVd3fVT_COSANJQ-1.jpg" skinid="ht_url" description="" target="_blank" title="" url="" pan="-40.37" use3D="0" tilt="-87.21"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendtime="1" zoomfov="20" softedge="0" enabled="1" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="90" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" contextfullscreen="1" contextprojections="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" speedwheel="1" sensitivity="8" lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextvr="1" invertcontrol="1" rubberband="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="480" levelingpitch="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" width="480">
+      <level height="480" predecode="1" preload="1" width="480"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Новая папка (3)" customnodeid="" source="" nodeid="node9" author="" info="" description="" datetime="08.05.2024 16:48" longitude="" title="" latitude="" copyright="" comment="" heading="0"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" border="1" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundalpha="1" borderalpha="1" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot customimageheight="53" customimagewidth="95" fov="100" id="Point01" distance3D="39.8572" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-144.png" skinid="ht_node" description="" target="" title="" url="{node13}" pan="-143.94" use3D="0" tilt="-40.77"/>
+      <hotspot customimageheight="128" customimagewidth="128" fov="10" id="Point02" distance3D="731.523" customimage="media/l3tW_JbQVX6Ll7GdGx4P9t8MXeJuW-1tZ9hrLsLov7LszxfUoiVO-np68nVd3fVT_COSANJQ-83.jpg" skinid="ht_url" description="" target="_blank" title="" url="" pan="-15.38" use3D="0" tilt="-82.07"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendtime="1" zoomfov="20" softedge="0" enabled="1" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="90" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" contextfullscreen="1" contextprojections="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" speedwheel="1" sensitivity="8" lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextvr="1" invertcontrol="1" rubberband="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="480" levelingpitch="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" width="480">
+      <level height="480" predecode="1" preload="1" width="480"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Новая папка (3)" customnodeid="" source="" nodeid="node10" author="" info="" description="" datetime="10.05.2024 15:10" longitude="" title="" latitude="" copyright="" comment="" heading="0"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" border="1" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundalpha="1" borderalpha="1" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot customimageheight="117" customimagewidth="210" fov="100" id="Point01" distance3D="88.1055" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-89.png" skinid="ht_node" description="" target="" title="" url="{node16}" pan="356.59" use3D="0" tilt="-41.74"/>
+      <hotspot customimageheight="79" customimagewidth="79" fov="10" id="Point02" distance3D="451.487" customimage="media/l3tW_JbQVX6Ll7GdGx4P9t8MXeJuW-1tZ9hrLsLov7LszxfUoiVO-np68nVd3fVT_COSANJQ-53.jpg" skinid="ht_url" description="" target="_blank" title="" url="" pan="-50.6" use3D="0" tilt="-87.9"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendtime="1" zoomfov="20" softedge="0" enabled="1" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="90" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" contextfullscreen="1" contextprojections="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" speedwheel="1" sensitivity="8" lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextvr="1" invertcontrol="1" rubberband="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input height="1936" levelingpitch="3.5064000000000002" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="-1.21556" levelbias="0.400" leveltilesize="510" width="1936">
+      <level height="1936" predecode="0" preload="0" width="1936"/>
+      <level height="968" predecode="0" preload="0" width="968"/>
+      <level height="484" predecode="1" preload="1" width="484"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Новая папка (3)" customnodeid="" source="" nodeid="node11" author="" info="" description="" datetime="26.04.2024 15:48" longitude="" title="" latitude="" copyright="" comment="" heading="0"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" border="1" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundalpha="1" borderalpha="1" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot description="" target="" title="" url="https://drive.google.com/file/d/1JMFJVEqv1o1HVZJxeBhW0zOzm8LI19oH/view?usp=drive_link" id="видео" skinid="https://drive.google.com/file/d/1rmeg2I45H_qVXmvYX5pCK9qjfPQkxSV2/view?usp=sharing" pan="-162.1" tilt="5.54"/>
+      <hotspot customimageheight="66" customimagewidth="118" fov="100" id="коридор" distance3D="49.5069" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-43.png" skinid="ht_node" description="" target="" title="" url="{node12}" pan="-178.24" use3D="0" tilt="-19.91"/>
+      <hotspot customimageheight="82" customimagewidth="147" fov="100" id="Point01" distance3D="61.6738" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-122.png" skinid="ht_node" description="" target="" title="" url="{node13}" pan="140.46" use3D="0" tilt="-20.05"/>
+      <hotspot customimageheight="82" customimagewidth="147" fov="100" id="Point02" distance3D="61.6738" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-31.png" skinid="ht_node" description="" target="" title="" url="{node22}" pan="49.34" use3D="0" tilt="-27.16"/>
+      <hotspot customimageheight="131" customimagewidth="131" fov="10" id="Point03" distance3D="748.668" customimage="media/l3tW_JbQVX6Ll7GdGx4P9t8MXeJuW-1tZ9hrLsLov7LszxfUoiVO-np68nVd3fVT_COSANJQ-16.jpg" skinid="ht_url" description="" target="_blank" title="" url="" pan="-332.11" use3D="0" tilt="-89.43"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendtime="1" zoomfov="20" softedge="0" enabled="1" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="90" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" contextfullscreen="1" contextprojections="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" speedwheel="1" sensitivity="8" lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextvr="1" invertcontrol="1" rubberband="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input height="480" levelingpitch="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" width="480">
+      <level height="480" predecode="1" preload="1" width="480"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="71.72" pan="169.18" tilt="-4.69"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fovstereographic="270" scaletofit="1" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Новая папка (3)" customnodeid="" source="" nodeid="node12" author="" info="" description="" datetime="26.04.2024 15:49" longitude="" title="" latitude="" copyright="" comment="" heading="0"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" border="1" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundalpha="1" borderalpha="1" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot customimageheight="44" customimagewidth="44" fov="100" id="vr" distance3D="18.4602" customimage="media/vSCuBVtllQE.jpg" skinid="ht_node" description="" target="" title="" url="{node20}" pan="-176.58" use3D="0" tilt="7.91"/>
+      <hotspot customimageheight="51" customimagewidth="51" fov="9.1500000000000004" id="мобильная разработка" distance3D="318.675" customimage="media/l9uWD3w816k.jpg" skinid="ht_node" description="" target="" title="" url="{node10}" pan="147.73" use3D="0" tilt="15.38"/>
+      <hotspot customimageheight="68" customimagewidth="122" fov="100" id="Point01" distance3D="51.1851" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-78.png" skinid="ht_node" description="" target="" title="" url="{node21}" pan="176.21" use3D="0" tilt="-12.1"/>
+      <hotspot customimageheight="67" customimagewidth="67" fov="100" id="Point02" distance3D="28.1098" customimage="media/STxOmi74uhA.jpg" skinid="ht_node" description="" target="" title="" url="{node19}" pan="-27.84" use3D="0" tilt="-3.87"/>
+      <hotspot customimageheight="76" customimagewidth="136" fov="100" id="Point03" distance3D="57.0588" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-55.png" skinid="ht_node" description="" target="" title="" url="{node11}" pan="-2.73" use3D="0" tilt="-18.65"/>
+      <hotspot customimageheight="99" customimagewidth="99" fov="10" id="Point04" distance3D="565.788" customimage="media/l3tW_JbQVX6Ll7GdGx4P9t8MXeJuW-1tZ9hrLsLov7LszxfUoiVO-np68nVd3fVT_COSANJQ-28.jpg" skinid="ht_url" description="" target="_blank" title="" url="" pan="-229.81" use3D="0" tilt="-87.9"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendtime="1" zoomfov="20" softedge="0" enabled="1" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="90" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" contextfullscreen="1" contextprojections="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" speedwheel="1" sensitivity="8" lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextvr="1" invertcontrol="1" rubberband="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input height="480" levelingpitch="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" width="480">
+      <level height="480" predecode="1" preload="1" width="480"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Новая папка (3)" customnodeid="" source="" nodeid="node13" author="" info="" description="" datetime="08.05.2024 16:47" longitude="" title="" latitude="" copyright="" comment="" heading="0"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" border="1" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundalpha="1" borderalpha="1" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot customimageheight="118" customimagewidth="118" fov="100" id="Point01" distance3D="49.5069" customimage="media/Faut8VRUlRU.jpg" skinid="ht_node" description="" target="" title="" url="{node9}" pan="64.37" use3D="0" tilt="3.69"/>
+      <hotspot customimageheight="58" customimagewidth="104" fov="100" id="Point02" distance3D="43.6332" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-134.png" skinid="ht_node" description="" target="" title="" url="{node11}" pan="-72.43" use3D="0" tilt="-12.97"/>
+      <hotspot customimageheight="41" customimagewidth="41" fov="100" id="Point03" distance3D="17.2015" customimage="media/png-transparent-office-megaphone-speaker-loudspeaker-announce-business-icon.png" skinid="ht_node" description="" target="" title="" url="{node14}" pan="-60.21" use3D="0" tilt="3.72"/>
+      <hotspot customimageheight="101" customimagewidth="101" fov="10" id="Point04" distance3D="577.218" customimage="media/l3tW_JbQVX6Ll7GdGx4P9t8MXeJuW-1tZ9hrLsLov7LszxfUoiVO-np68nVd3fVT_COSANJQ-73.jpg" skinid="ht_url" description="" target="_blank" title="" url="" pan="-77.46" use3D="0" tilt="-88.59"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendtime="1" zoomfov="20" softedge="0" enabled="1" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="90" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" contextfullscreen="1" contextprojections="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" speedwheel="1" sensitivity="8" lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextvr="1" invertcontrol="1" rubberband="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input height="480" levelingpitch="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" width="480">
+      <level height="480" predecode="1" preload="1" width="480"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Новая папка (3)" customnodeid="" source="" nodeid="node14" author="" info="" description="" datetime="08.05.2024 16:42" longitude="" title="" latitude="" copyright="" comment="" heading="0"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" border="1" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundalpha="1" borderalpha="1" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot customimageheight="84" customimagewidth="150" fov="100" id="Point01" distance3D="62.9325" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-158.png" skinid="ht_node" description="" target="" title="" url="{node15}" pan="-33.01" use3D="0" tilt="-33.78"/>
+      <hotspot customimageheight="72" customimagewidth="129" fov="100" id="Point02" distance3D="54.1219" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-175.png" skinid="ht_node" description="" target="" title="" url="{node13}" pan="-160.58" use3D="0" tilt="-28.66"/>
+      <hotspot customimageheight="119" customimagewidth="119" fov="10" id="Point03" distance3D="680.088" customimage="media/l3tW_JbQVX6Ll7GdGx4P9t8MXeJuW-1tZ9hrLsLov7LszxfUoiVO-np68nVd3fVT_COSANJQ-97.jpg" skinid="ht_url" description="" target="_blank" title="" url="" pan="-668.3" use3D="0" tilt="-88.16"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendtime="1" zoomfov="20" softedge="0" enabled="1" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="90" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" contextfullscreen="1" contextprojections="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" speedwheel="1" sensitivity="8" lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextvr="1" invertcontrol="1" rubberband="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input height="480" levelingpitch="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" width="480">
+      <level height="480" predecode="1" preload="1" width="480"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Новая папка (3)" customnodeid="" source="" nodeid="node15" author="" info="" description="" datetime="08.05.2024 16:41" longitude="" title="" latitude="" copyright="" comment="" heading="0"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" border="1" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundalpha="1" borderalpha="1" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot customimageheight="74" customimagewidth="132" fov="100" id="Point01" distance3D="55.3806" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-167.png" skinid="ht_node" description="" target="" title="" url="{node14}" pan="168.16" use3D="0" tilt="-25.24"/>
+      <hotspot customimageheight="112" customimagewidth="112" fov="10" id="Point02" distance3D="640.083" customimage="media/l3tW_JbQVX6Ll7GdGx4P9t8MXeJuW-1tZ9hrLsLov7LszxfUoiVO-np68nVd3fVT_COSANJQ-106.jpg" skinid="ht_url" description="" target="_blank" title="" url="" pan="-43.98" use3D="0" tilt="-88.81"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendtime="1" zoomfov="20" softedge="0" enabled="1" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="90" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" contextfullscreen="1" contextprojections="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" speedwheel="1" sensitivity="8" lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextvr="1" invertcontrol="1" rubberband="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input height="480" levelingpitch="-1.0027600000000001" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="2.0502500000000001" levelbias="0.400" leveltilesize="510" width="480">
+      <level height="480" predecode="1" preload="1" width="480"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Новая папка (3)" customnodeid="" source="" nodeid="node16" author="" info="" description="" datetime="10.05.2024 15:09" longitude="" title="" latitude="" copyright="" comment="" heading="0"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" border="1" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundalpha="1" borderalpha="1" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot customimageheight="130" customimagewidth="233" fov="100" id="Point01" distance3D="97.7551" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-102.png" skinid="ht_node" description="" target="" title="" url="{node12}" pan="155.72" use3D="0" tilt="-25.66"/>
+      <hotspot customimageheight="52" customimagewidth="52" fov="10" id="Point02" distance3D="297.181" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-9.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151633.jpg" pan="-229.03" use3D="0" tilt="-15.53"/>
+      <hotspot customimageheight="53" customimagewidth="53" fov="10" id="Point03" distance3D="302.896" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-16.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151644.jpg" pan="-237.23" use3D="0" tilt="-17.92"/>
+      <hotspot customimageheight="38" customimagewidth="38" fov="10" id="Point04" distance3D="217.171" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-23.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151652.jpg" pan="-253.53" use3D="0" tilt="-24.69"/>
+      <hotspot customimageheight="50" customimagewidth="50" fov="10" id="Point06" distance3D="285.751" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-37.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151705.jpg" pan="-293.76" use3D="0" tilt="-25.83"/>
+      <hotspot customimageheight="44" customimagewidth="44" fov="10" id="Point07" distance3D="251.461" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-44.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151713.jpg" pan="-315.75" use3D="0" tilt="-23.04"/>
+      <hotspot customimageheight="49" customimagewidth="49" fov="10" id="Point08" distance3D="280.036" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-51.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151719.jpg" pan="-329.46" use3D="0" tilt="-19.13"/>
+      <hotspot customimageheight="34" customimagewidth="34" fov="10" id="Point09" distance3D="194.311" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-58.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151727.jpg" pan="-339.12" use3D="0" tilt="-14.63"/>
+      <hotspot customimageheight="54" customimagewidth="54" fov="10" id="Point10" distance3D="308.611" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-65.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151800.jpg" pan="-43.33" use3D="0" tilt="-10.52"/>
+      <hotspot customimageheight="54" customimagewidth="54" fov="10" id="Point11" distance3D="308.611" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-72.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151803.jpg" pan="-50.52" use3D="0" tilt="-13.27"/>
+      <hotspot customimageheight="51" customimagewidth="51" fov="10" id="Point12" distance3D="291.466" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-79.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151807.jpg" pan="-56.41" use3D="0" tilt="-14.73"/>
+      <hotspot customimageheight="47" customimagewidth="47" fov="10" id="Point13" distance3D="268.606" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-86.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151816.jpg" pan="-65.13" use3D="0" tilt="-17.27"/>
+      <hotspot customimageheight="40" customimagewidth="40" fov="10" id="Point15" distance3D="228.601" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-93.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151820.jpg" pan="-76.71" use3D="0" tilt="-21.4"/>
+      <hotspot customimageheight="45" customimagewidth="45" fov="10" id="Point16" distance3D="257.176" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-100.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151823.jpg" pan="-88.54" use3D="0" tilt="-23.95"/>
+      <hotspot customimageheight="52" customimagewidth="52" fov="10" id="Point17" distance3D="297.181" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-107.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151827.jpg" pan="-104.01" use3D="0" tilt="-27.4"/>
+      <hotspot customimageheight="50" customimagewidth="50" fov="10" id="Point18" distance3D="285.751" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-114.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151830.jpg" pan="-118.91" use3D="0" tilt="-26.18"/>
+      <hotspot customimageheight="62" customimagewidth="62" fov="10" id="Point19" distance3D="354.332" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-121.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151835.jpg" pan="-139.5" use3D="0" tilt="-20.76"/>
+      <hotspot customimageheight="76" customimagewidth="76" fov="10" id="Point20" distance3D="434.342" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-128.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151842.jpg" pan="-153.57" use3D="0" tilt="-17.12"/>
+      <hotspot customimageheight="50" customimagewidth="50" fov="10" id="Point21" distance3D="285.751" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-2.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151625.jpg" pan="-217.68" use3D="0" tilt="-10.12"/>
+      <hotspot customimageheight="51" customimagewidth="51" fov="10" id="Point23" distance3D="291.466" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-30.png" skinid="ht_image" description="" target="" title="" url="images/20240510_151659.jpg" pan="-268.9" use3D="0" tilt="-26.35"/>
+      <hotspot customimageheight="162" customimagewidth="162" fov="10" id="Point05" distance3D="925.834" customimage="media/l3tW_JbQVX6Ll7GdGx4P9t8MXeJuW-1tZ9hrLsLov7LszxfUoiVO-np68nVd3fVT_COSANJQ-66.jpg" skinid="ht_url" description="" target="_blank" title="" url="" pan="-245.24" use3D="0" tilt="-88.71"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendtime="1" zoomfov="20" softedge="0" enabled="1" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="90" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" contextfullscreen="1" contextprojections="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" speedwheel="1" sensitivity="8" lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextvr="1" invertcontrol="1" rubberband="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input height="480" levelingpitch="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" width="480">
+      <level height="480" predecode="1" preload="1" width="480"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Новая папка (3)" customnodeid="" source="" nodeid="node17" author="" info="" description="" datetime="10.05.2024 15:11" longitude="" title="" latitude="" copyright="" comment="" heading="0"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" border="1" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundalpha="1" borderalpha="1" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot customimageheight="66" customimagewidth="118" fov="100" id="Point01" distance3D="49.5069" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-109.png" skinid="ht_node" description="" target="" title="" url="{node18}" pan="-64.14" use3D="0" tilt="-25.08"/>
+      <hotspot customimageheight="225" customimagewidth="225" fov="10" id="Point02" distance3D="1285.88" customimage="media/l3tW_JbQVX6Ll7GdGx4P9t8MXeJuW-1tZ9hrLsLov7LszxfUoiVO-np68nVd3fVT_COSANJQ.jpg" skinid="ht_url" description="" target="_blank" title="" url="" pan="-243.03" use3D="0" tilt="-89.37"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendtime="1" zoomfov="20" softedge="0" enabled="1" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="90" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" contextfullscreen="1" contextprojections="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" speedwheel="1" sensitivity="8" lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextvr="1" invertcontrol="1" rubberband="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input height="480" levelingpitch="0" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" width="480">
+      <level height="480" predecode="1" preload="1" width="480"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Новая папка (3)" customnodeid="" source="" nodeid="node18" author="" info="" description="" datetime="10.05.2024 15:13" longitude="" title="" latitude="" copyright="" comment="" heading="0"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" border="1" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundalpha="1" borderalpha="1" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot customimageheight="124" customimagewidth="222" fov="100" id="Point01" distance3D="93.1401" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-68.png" skinid="ht_node" description="" target="" title="" url="{node17}" pan="20.1" use3D="0" tilt="-46.18"/>
+      <hotspot customimageheight="89" customimagewidth="159" fov="100" id="Point02" distance3D="66.7084" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-73.png" skinid="ht_node" description="" target="" title="" url="{node21}" pan="-79.98" use3D="0" tilt="-32.79"/>
+      <hotspot customimageheight="162" customimagewidth="162" fov="10" id="Point03" distance3D="925.834" customimage="media/l3tW_JbQVX6Ll7GdGx4P9t8MXeJuW-1tZ9hrLsLov7LszxfUoiVO-np68nVd3fVT_COSANJQ-41.jpg" skinid="ht_url" description="" target="_blank" title="" url="" pan="-100.65" use3D="0" tilt="-83.45"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendtime="1" zoomfov="20" softedge="0" enabled="1" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="90" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" contextfullscreen="1" contextprojections="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" speedwheel="1" sensitivity="8" lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextvr="1" invertcontrol="1" rubberband="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input height="480" levelingpitch="0" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" width="480">
+      <level height="480" predecode="1" preload="1" width="480"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Новая папка (3)" customnodeid="" source="" nodeid="node19" author="" info="" description="" datetime="10.05.2024 15:07" longitude="" title="" latitude="" copyright="" comment="" heading="0"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" border="1" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundalpha="1" borderalpha="1" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot customimageheight="96" customimagewidth="172" fov="100" id="Point01" distance3D="72.1626" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-115.png" skinid="ht_node" description="" target="" title="" url="{node12}" pan="-118.03" use3D="0" tilt="-35.09"/>
+      <hotspot customimageheight="128" customimagewidth="128" fov="10" id="Point02" distance3D="731.523" customimage="media/l3tW_JbQVX6Ll7GdGx4P9t8MXeJuW-1tZ9hrLsLov7LszxfUoiVO-np68nVd3fVT_COSANJQ-46.jpg" skinid="ht_url" description="" target="_blank" title="" url="" pan="-92.14" use3D="0" tilt="-87.84"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendtime="1" zoomfov="20" softedge="0" enabled="1" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="90" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" contextfullscreen="1" contextprojections="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" speedwheel="1" sensitivity="8" lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextvr="1" invertcontrol="1" rubberband="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input height="480" levelingpitch="0.61865300000000001" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="2.87616" levelbias="0.400" leveltilesize="510" width="480">
+      <level height="480" predecode="1" preload="1" width="480"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Новая папка (3)" customnodeid="" source="" nodeid="node20" author="" info="" description="" datetime="26.04.2024 16:27" longitude="" title="" latitude="" copyright="" comment="" heading="0"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" border="1" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundalpha="1" borderalpha="1" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot customimageheight="58" customimagewidth="104" fov="100" id="коридор из vr" distance3D="43.6332" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-119.png" skinid="ht_node" description="" target="" title="" url="{node12}" pan="104.41" use3D="0" tilt="-28.02"/>
+      <hotspot customimageheight="31" customimagewidth="62" fov="10" id="Point01" distance3D="354.332" customimage="media/cam-001-001-pink-video-camera-icon-gray-world-of-warcraft-transparent-png-1521686.png" skinid="ht_video_file" description="" target="" title="" url="media/BeatSaber.mp4" pan="-219.36" use3D="0" tilt="10.89"/>
+      <hotspot customimageheight="144" customimagewidth="144" fov="10" id="Point02" distance3D="822.964" customimage="media/l3tW_JbQVX6Ll7GdGx4P9t8MXeJuW-1tZ9hrLsLov7LszxfUoiVO-np68nVd3fVT_COSANJQ-50.jpg" skinid="ht_url" description="" target="_blank" title="" url="" pan="-24.87" use3D="0" tilt="-89.03"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendtime="1" zoomfov="20" softedge="0" enabled="1" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="90" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" contextfullscreen="1" contextprojections="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" speedwheel="1" sensitivity="8" lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextvr="1" invertcontrol="1" rubberband="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input height="480" levelingpitch="2.2364299999999999" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="6.7659200000000004" levelbias="0.400" leveltilesize="510" width="480">
+      <level height="480" predecode="1" preload="1" width="480"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Новая папка (3)" customnodeid="" source="" nodeid="node21" author="" info="" description="" datetime="10.05.2024 16:07" longitude="" title="" latitude="" copyright="" comment="" heading="0"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" border="1" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundalpha="1" borderalpha="1" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot customimageheight="53" customimagewidth="53" fov="100" id="Point01" distance3D="22.2361" customimage="media/1laKJXdBU54.jpg" skinid="ht_node" description="" target="" title="" url="{node18}" pan="-16.06" use3D="0" tilt="0.86"/>
+      <hotspot customimageheight="47" customimagewidth="84" fov="100" id="Point02" distance3D="35.2422" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle-66.png" skinid="ht_node" description="" target="" title="" url="{node12}" pan="138.3" use3D="0" tilt="-18.6"/>
+      <hotspot customimageheight="143" customimagewidth="143" fov="10" id="Point03" distance3D="817.249" customimage="media/l3tW_JbQVX6Ll7GdGx4P9t8MXeJuW-1tZ9hrLsLov7LszxfUoiVO-np68nVd3fVT_COSANJQ-39.jpg" skinid="ht_url" description="" target="_blank" title="" url="" pan="-292.22" use3D="0" tilt="-88.48"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendtime="1" zoomfov="20" softedge="0" enabled="1" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="90" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" contextfullscreen="1" contextprojections="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" speedwheel="1" sensitivity="8" lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextvr="1" invertcontrol="1" rubberband="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input height="480" levelingpitch="0" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" leveltilesize="510" width="480">
+      <level height="480" predecode="1" preload="1" width="480"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Новая папка (3)" customnodeid="" source="" nodeid="node23" author="" info="" description="" datetime="10.05.2024 16:11" longitude="" title="" latitude="" copyright="" comment="" heading="0"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" border="1" textalpha="1" wordwrap="1" borderradius="1" enabled="1" backgroundalpha="1" borderalpha="1" background="1" width="180"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot description="" target="" title="" url="{node22}" id="Point01" skinid="ht_node" pan="-174.55" tilt="0.17"/>
+      <hotspot customimageheight="79" customimagewidth="141" fov="100" id="Point02" distance3D="59.1565" customimage="media/png-transparent-arrow-computer-icons-arrow-angle-rectangle-triangle.png" skinid="ht_node" description="" target="" title="" url="{node11}" pan="158.31" use3D="0" tilt="-25.22"/>
+      <hotspot customimageheight="32" customimagewidth="32" fov="10" id="Point03" distance3D="182.881" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon.png" skinid="ht_image" description="" target="" title="" url="images/20240510_161551.jpg" pan="-238.06" use3D="0" tilt="11.62"/>
+      <hotspot customimageheight="50" customimagewidth="50" fov="10" id="Point04" distance3D="285.751" customimage="media/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-1.png" skinid="ht_image" description="" target="" title="" url="" pan="-213.46" use3D="0" tilt="4.18"/>
+      <hotspot customimageheight="223" customimagewidth="223" fov="10" id="Point05" distance3D="1274.45" customimage="media/l3tW_JbQVX6Ll7GdGx4P9t8MXeJuW-1tZ9hrLsLov7LszxfUoiVO-np68nVd3fVT_COSANJQ.jpg" skinid="ht_url" description="" target="_blank" title="" url="" pan="-12.69" use3D="0" tilt="-77.55"/>
+    </hotspots>
+    <media>
+      <sound mode="3" field="90.000" loop="1" id="Element01" startmutedmobile="0" pansize="10.000" nodechangekeep="0" ambientlevel="0.000" level="1.000" pan="-289.730" tiltsize="10.000" tilt="-34.950">
+        <source url="media/sound.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="20" blendtime="1" zoomfov="20" softedge="0" enabled="1" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="90" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" contextfullscreen="1" contextprojections="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" speedwheel="1" sensitivity="8" lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextvr="1" invertcontrol="1" rubberband="0" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" title="" author="" copyright="" comment="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
